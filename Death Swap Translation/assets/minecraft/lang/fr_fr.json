@@ -1,0 +1,43 @@
+{
+  "language.name": "Francais",
+  "language.region": "FR",
+  "language.code": "fr_fr",
+
+  "[Death Swap]: ": "[Death Swap]: ",
+
+  //load, reset
+  "Datapack has been reseted": "Le datapack a été réinitialisé",
+  "Click to reset the datapack": "Cliquez pour réinitialiser le datapack",
+  
+  //start resume
+  "Start the game": "Lancer la partie",
+  "Click to start the game": "Cliquez pour lancer la partie",
+  "The game has started": "La partie a commencé",
+  " players left": " joueurs restants",
+  " players (and ": " joueurs (et ",
+  " mobs) left": " mobs) restants",
+  "Mega Death Swap has started! (with all entities in the world)": "Méga Death Swap a démarré ! (avec tous les mobs du monde)",
+  //stop pause
+  "The game has been paused": "La partie a été mise en pause",
+
+  //join
+  "Join the game": "Rejoindre la partie",
+  "Click to join the game": "Cliquer pour rejoindre la partie",
+  "Joined the game": "A rejoint la partie",
+  "You are in the game": "Vous êtes dans la partie",
+  "entities joined the game": "entitées ont rejoint la partie",
+  //leave
+  "Has left the game": "A quitté la partie",
+  
+  //swap
+  "Swap in": "Swap dans",
+  "Swap!": "Swap !",
+
+  //fail (swap/reset)
+  "Tp has timeout": "Le Tp a mis trop de temps",
+  "Players disappeared during the tp":"Des joueurs ont disparu pendant le tp",
+
+  //game over
+  " lost": " a perdu",
+  "Try again": "Réessayer"
+}
