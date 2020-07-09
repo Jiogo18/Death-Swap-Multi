@@ -64,10 +64,12 @@ Swap:
 	- she is in an unloaded chunk
 	- she died during the swap (a rare case)
 
+Errors generally don't affect the game
+
 
 # Translate
 A ressource pack is available for translations of:
 - fr Français
 - en English (ressource pack remove the download message)
-Simply add the ressource pack and selec our minecraft language
 
+Simply add the ressource pack and select your minecraft language
