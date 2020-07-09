@@ -61,8 +61,8 @@ Swap:
 	- random isn't good (an infinitely rare case)
 	- when an entity (mega death swap) is in an unloaded chunk
 - Disappeared: an entity can disapear when:
-	- she is in an unloaded chunk
-	- she died during the swap (a rare case)
+	- it is in an unloaded chunk
+	- it died during the swap (a rare case)
 
 Errors generally don't affect the game
 
