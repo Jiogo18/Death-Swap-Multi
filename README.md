@@ -1,5 +1,5 @@
 # Death-Swap-Multi
-A Death Swap Datapack but with many players
+A Minecraft Datapack to play Death Swap with many players !
 
 # Credits
 Death Swap:
@@ -52,7 +52,7 @@ Swap:
 -start by running /function death_swap_multi:mega/start
 -stop by running /function death_swap_multi:mega/stop
 	every entites added by Mega Death Swap left the game but not others entities
-	doesn't stop the game (/funciton death_swap_multi:party/pause)
+	doesn't stop the game (/function death_swap_multi:party/pause)
 -every entities of the world (except #death_swap_multi:mega_blacklist) join the game if there is a player at less than 128 blocks
 
 
