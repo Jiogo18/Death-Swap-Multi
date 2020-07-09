@@ -1,0 +1,1 @@
+tellraw @a[tag=death_swap_m] [{"translate":"[Death Swap]: "},{"selector":"@s"}," ",{"translate":"Has left the game"}]

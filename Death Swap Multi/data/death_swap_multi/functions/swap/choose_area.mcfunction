@@ -1,0 +1,1 @@
+execute unless entity @e[tag=death_swap_mas] run tag @e[tag=death_swap_ma,sort=random,limit=1] add death_swap_mas
