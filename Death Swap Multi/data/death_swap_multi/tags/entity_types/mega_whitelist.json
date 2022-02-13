@@ -1,5 +1,6 @@
 {
 	"values": [
+		"minecraft:axolotl",
 		"minecraft:bat",
 		"minecraft:bee",
 		"minecraft:blaze",
@@ -23,6 +24,8 @@
 		"minecraft:furnace_minecart",
 		"minecraft:ghast",
 		"minecraft:giant",
+		"minecraft:glow_squid",
+		"minecraft:goat",
 		"minecraft:guardian",
 		"minecraft:hoglin",
 		"minecraft:hopper_minecart",
