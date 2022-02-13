@@ -1,3 +1,0 @@
-execute unless score enabled death_swap_m matches 1 run tellraw @a [{"translate":"[Death Swap]: "},{"translate":"Start the game","clickEvent":{"action":"run_command","value":"/function death_swap_multi:party/resume"},"hoverEvent":{"action":"show_text","value":{"translate":"Click to start the game"}},"italic":true}]
-
-execute if score enabled death_swap_m matches 1 run function death_swap_multi:tellraw/started
