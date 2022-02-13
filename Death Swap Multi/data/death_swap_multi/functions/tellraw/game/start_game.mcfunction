@@ -1,0 +1,2 @@
+tellraw @a [{"translate":"[Death Swap]: "},{"translate":"Start the game","color":"yellow","clickEvent":{"action":"run_command","value":"/function death_swap_multi:party/resume"},"hoverEvent":{"action":"show_text","value":{"translate":"Click to start the game"}},"italic":true}]
+tellraw @a [{"translate":"[Death Swap]: "},{"translate":"Start Mega Death Swap","color":"yellow","clickEvent":{"action":"run_command","value":"/function death_swap_multi:mega/start"},"hoverEvent":{"action":"show_text","value":{"translate":"Click to start the mega death swap"}},"italic":true}]

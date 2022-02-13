@@ -1,0 +1,19 @@
+[
+	{
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+			"nbt": "{Tags:[\"death_swap_m\"]}"
+		}
+	},
+	{
+		"condition": "minecraft:inverted",
+		"term": {
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"death_swap_join": 1
+			}
+		}
+	}
+]

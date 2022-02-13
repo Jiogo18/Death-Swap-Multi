@@ -13,7 +13,7 @@ scoreboard players operation random random_timeout += z random_timeout
 
 scoreboard players operation random_plage random_timeout = time_max random_timeout
 scoreboard players operation random_plage random_timeout -= time_min random_timeout
-scoreboard players operation random_plage random_timeout += 1 const
+scoreboard players add random_plage random_timeout 1
 scoreboard players operation random random_timeout *= random_plage random_timeout
 scoreboard players operation random random_timeout /= random_max random_timeout
 scoreboard players operation random random_timeout += time_min random_timeout
